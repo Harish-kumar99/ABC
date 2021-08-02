@@ -1,0 +1,22 @@
+#include<iostream>
+#include<cmath>
+
+using namespace std;
+void find(double p) {
+	int k = ceil(sqrt(2*365*log(1/(1-p))));
+	cout<<k;}
+	
+
+
+
+int main(){
+	find(.999);
+	
+	
+	
+	
+	return 0;
+	
+	
+	
+}
